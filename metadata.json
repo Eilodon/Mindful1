@@ -1,0 +1,7 @@
+{
+  "name": "Mindful Lotus",
+  "description": "A quantum-inspired mental health chatbot based on Thich Nhat Hanh's wisdom.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
